@@ -8,6 +8,7 @@ Extension Librabry (TTF and image needed): http://www.lazyfoo.net/tutorials/SDL/
 Compiled by command line (src): g++ *.cpp -w -std=c++11 -lSDL2 -lSDL2_image -lSDL2_ttf -o main
 
 NOTE: Change include header appropriate to your OS and IDE. (read the following links for more infomation)
+
 NOTE2: 
 When running program
 * The text box is next to Load button
